@@ -173,7 +173,8 @@ main {
   .about-info .job {
     background: #515151;
     padding: 0.5rem;
-    border-bottom: #eece1a 5px solid; }
+    border-bottom: #eece1a 5px solid;
+    text-align: center; }
 
 .projects {
   display: grid;
